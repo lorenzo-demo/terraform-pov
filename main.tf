@@ -1,6 +1,6 @@
 module "random" {
   source  = "app.terraform.io/TGITS_ITF_CCE_POC/id/random"
-  version = "0.1.0"
+  version = "0.1.1"
   toto_length = 16
   titi_length = 24
 }
